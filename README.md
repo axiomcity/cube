@@ -2,8 +2,7 @@
 
 Bonjour à tous,
 
-Je suis ravi de vous présenter un petit jeu que je viens de finir de developper aujourd'hui.
-j'ai appris le langage **Lua** pour ce jeu.
+Bienvenue dans le nouveau jeu que je viens de coder.
 
 ## Aperçu du Jeu
 
@@ -17,7 +16,9 @@ L'histoire se déroule dans une prairie. Vous incarnez un jeune cube dont le rê
 
 | Description | Statut | Fichier / Lien |
 | :--- | :--- | :--- |
-| **Language** | ✅ | [LUA](lien) |
+| **Language** | ✅ | [LUA + LOVE2D](https://love2d.org/) |
+| **technologie utilisée** | ✅ | [GRAVITE](https://github.com/axiomcity/cube) |
+| **Jouer en ligne** | ✅ | [Sur Itch.io](https://studiomaloute.itch.io/cube-the-game) |
 
 ---
 

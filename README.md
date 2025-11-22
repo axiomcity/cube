@@ -32,8 +32,10 @@ if key == 'space' then
   player.y = player.y - 20
 end
 ```
+
 ### Structure du code
 
+```md
 game.zip/
 ├ 
 ├ DRAW.lua
@@ -41,3 +43,4 @@ game.zip/
 ├ main.lua
 ├ 
 └─
+```

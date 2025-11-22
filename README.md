@@ -16,16 +16,19 @@ L'histoire se déroule dans une prairie. Vous incarnez un jeune cube dont le rê
 
 Voici quelques exemples de code pour vous donner une idée de la logique de jeu :
 
-### Initialisation du Cube
+### Initialisation de la gravité du Cube
 
 ```lua
-local cube = {
-    x = 0,
-    y = 0,
-    score = 0
-}
+      for i = 1, 1, 1 do
+        player.y = player.y + game.gravity
+      end
+```
 
-function cube:move(dx, dy)
-    self.x = self.x + dx
-    self.y = self.y + dy
-end
+### Fonction de score du joueur
+
+```lua
+      if key == 'space' then
+        player.score = player.score + player.boost
+        player.y = player.y - 20
+      end
+```

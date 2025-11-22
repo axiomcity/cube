@@ -1,8 +1,9 @@
-# Mon Petit Jeu en Lua
+# 🧊 Cube le jeu 
 
 Bonjour à tous,
 
-Je suis ravi de vous présenter un petit jeu qui me tient à cœur. J’espère sincèrement que cela vous plaira ! Pour le créer, j'ai appris le langage **Lua**, car j'ai décidé de me lancer dans le développement de jeux vidéo.
+Je suis ravi de vous présenter un petit jeu que je viens de finir de developper aujourd'hui.
+j'ai appris le langage **Lua** pour ce jeu.
 
 ## Aperçu du Jeu
 
@@ -11,6 +12,14 @@ L'histoire se déroule dans une prairie. Vous incarnez un jeune cube dont le rê
 ### Objectif du Jeu
 
 - **Faire monter le score.**
+
+## 🧩 Projet Cube
+
+| Description | Statut | Fichier / Lien |
+| :--- | :--- | :--- |
+| **Language** | ✅ | [LUA](lien) |
+
+---
 
 ## Exemples de Code
 

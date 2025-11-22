@@ -19,16 +19,25 @@ Voici quelques exemples de code pour vous donner une idée de la logique de jeu 
 ### Initialisation de la gravité du Cube
 
 ```lua
-      for i = 1, 1, 1 do
-        player.y = player.y + game.gravity
-      end
+for i = 1, 1, 1 do
+  player.y = player.y + game.gravity
+end
 ```
 
 ### Fonction de score du joueur
 
 ```lua
-      if key == 'space' then
-        player.score = player.score + player.boost
-        player.y = player.y - 20
-      end
+if key == 'space' then
+  player.score = player.score + player.boost
+  player.y = player.y - 20
+end
 ```
+### Structure du code
+
+game.zip/
+├ 
+├ DRAW.lua
+├ UPDATE.lua
+├ main.lua
+├ 
+└─
